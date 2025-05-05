@@ -1,3 +1,5 @@
+console.log("Welcome to content.js")
+
 window.addEventListener("load", function(e){
     images = document.querySelectorAll("img")
     images.forEach(function(image){
